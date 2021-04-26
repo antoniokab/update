@@ -1,0 +1,11 @@
+[0100]
+file=setup_01.00_from_00.00.txt
+link=https://drive.google.com/drive/u/0/folders/1esDPRkQyecrwdhK6hYXJZrSulj6RnkA-/
+[0110]
+file=setup_01.10_from_01.00.txt
+link=https://drive.google.com/drive/u/0/folders/1esDPRkQyecrwdhK6hYXJZrSulj6RnkA-/
+[0200]
+file=setup_02.00_from_01.10.txt
+link=https://drive.google.com/drive/u/0/folders/1esDPRkQyecrwdhK6hYXJZrSulj6RnkA-/
+
+
